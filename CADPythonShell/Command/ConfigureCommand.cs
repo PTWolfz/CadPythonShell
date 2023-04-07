@@ -1,5 +1,4 @@
 ﻿using Autodesk.AutoCAD.Runtime;
-using System.Windows.Forms;
 using Application = Autodesk.AutoCAD.ApplicationServices.Core.Application;
 
 namespace CADPythonShell
