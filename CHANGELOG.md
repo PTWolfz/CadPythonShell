@@ -1,10 +1,4 @@
 # Changelog
-- 2022-12-17 **1.1.1**
-	- Fix code Autocomple List ironpython 3.4
-- 2022-12-17 **1.1.0**
-  - Fix Assembly Security from IronPython 3.4 [#6](https://github.com/chuongmep/CadPythonShell/issues/6)
-- 2022-12-16 **1.0.9**
-  - Support IronPython 3.4
 - 2022-05-12 **1.0.8**
   - Fix bug duplicate snoop [#4](https://github.com/chuongmep/CadPythonShell/issues/4)
 - 2022-04-12 **1.0.7**
